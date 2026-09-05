@@ -3,12 +3,13 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2500&pause=900&color=00F7FF&center=true&vCenter=true&width=650&lines=Inicializando+perfil...;Carregando+m%C3%B3dulos+de+dados...;Ol%C3%A1%2C+eu+sou+o+Rikelme+%F0%9F%91%8B;Analista+de+Dados+%7C+Estudante+de+Ci%C3%AAncia+de+Dados;Sistema+pronto+para+colabora%C3%A7%C3%A3o+%E2%9C%94" alt="Typing SVG" />
 <br>
 
+
 </div>
 <br>>_ SOBRE_MIM.exe
 usuario:
   nome: "Rikelme Holanda Alves"
   idade: 18
-  localizacao: "Picos, PI - Brasil"
+  localizacao: "Teresina, PI - Brasil"
   formacao: "Tecnólogo em Banco de Dados | Ênfase em Ciência de Dados"
   instituicao: "PIT - Piauí Instituto de Tecnologia"
   cargo_atual: "Estagiário de Análise de Dados @ Construtora SOMA"
@@ -38,10 +39,12 @@ usuario:
 Projeto acadêmico estilo Waze/Maps para rastrear e localizar estoque de remédios em hospitais e UBS em tempo real.
 Status: Em desenvolvimento
 
+
 </td>
 <td width="50%">📊 Dashboard Analítico Corporativo
 Construção de dashboards e relatórios analíticos para apoiar decisões estratégicas na Construtora SOMA.
 Status: Em produção
+
 
 </td>
 </tr>
@@ -69,20 +72,18 @@ rikelme@dev:~$ _
 <br>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rikelme202&theme=tokyonight&hide_border=true&background=0d1117&ring=00F7FF&fire=00F7FF&currStreakLabel=00F7FF" width="90%" />
 <br>
-<!-- O cache parameter &v=1 foi adicionado na URL abaixo -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Rikelme202&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=00F7FF&line=00F7FF&point=ffffff&v=1" width="90%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Rikelme202&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=00F7FF&line=00F7FF&point=ffffff" width="90%" />
 </div>
 <br>>_ TROPHIES.dat
 
 <div align="center">
-<!-- O cache parameter &v=1 foi adicionado na URL abaixo -->
-<img src="https://github-profile-trophy.vercel.app/?username=Rikelme202&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&row=1&column=7&v=1" />
+<img src="https://github-profile-trophy.vercel.app/?username=Rikelme202&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&row=1&column=7" />
 </div>
 <br>>_ CONTRIBUTION_MATRIX.exe
 
 <div align="center">
 <img src="https://raw.githubusercontent.com/Rikelme202/Rikelme202/output/github-contribution-grid-snake-dark.svg" width="90%" />
-</div>⚠️ Snake Animation requer um GitHub Action configurado no seu repositório (Rikelme202/Rikelme202).
+</div>⚠️ Snake Animation requer um GitHub Action configurado no seu repositório (Rikelme202/Rikelme202). Posso te ajudar a configurar o workflow, se quiser.
 
 <br>>_ REDES.connect
 
@@ -90,6 +91,7 @@ rikelme@dev:~$ _
 <a href="#"><img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=00F7FF" /></a>
 <a href="#"><img src="https://img.shields.io/badge/Gmail-0d1117?style=for-the-badge&logo=gmail&logoColor=00F7FF" /></a>
 <a href="#"><img src="https://img.shields.io/badge/Instagram-0d1117?style=for-the-badge&logo=instagram&logoColor=00F7FF" /></a>
+
 
 </div>
 <br>
