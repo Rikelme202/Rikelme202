@@ -148,7 +148,7 @@ rikelme@dev:~$ _
 
 </div>
 
-> ⚠️ Snake Animation requer um GitHub Action configurado no seu repositório (`Rikelme202/Rikelme202`). Posso te ajudar a configurar o workflow, se quiser.
+
 
 <br>
 
@@ -156,7 +156,7 @@ rikelme@dev:~$ _
 
 <div align="center">
 
-<a href="#"><img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=00F7FF" /></a>
+<a href="https://www.linkedin.com/in/rikelme-holanda-alves-ba1990288/"><img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=00F7FF" /></a>
 <a href="#"><img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=00F7FF" /></a>
 <a href="#"><img src="https://img.shields.io/badge/Gmail-0d1117?style=for-the-badge&logo=gmail&logoColor=00F7FF" /></a>
 <a href="#"><img src="https://img.shields.io/badge/Instagram-0d1117?style=for-the-badge&logo=instagram&logoColor=00F7FF" /></a>
