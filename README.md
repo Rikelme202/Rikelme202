@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=gradient&customColorList=0,2,6,12,20&text=RIKELME%20HOLANDA%20ALVES&fontSize=42&fontColor=00F7FF&fontAlignY=38&animation=fadeIn&desc=SYSTEM%20ONLINE%20//%20DATA%20%26%20DATABASE%20ENGINEER&descAlignY=58&descSize=18" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=gradient&customColorList=0,2,6,12,20&text=RIKELME%20HOLANDA%20ALVES&fontSize=42&fontColor=00F7FF&fontAlignY=38&animation=fadeIn&desc=SYSTEM%20ONLINE%20-%20DATA%20%26%20DATABASE%20ENGINEER&descAlignY=58&descSize=18" width="100%" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2500&pause=900&color=00F7FF&center=true&vCenter=true&width=650&lines=Inicializando+perfil...;Carregando+m%C3%B3dulos+de+dados...;Ol%C3%A1%2C+eu+sou+o+Rikelme+%F0%9F%91%8B;Analista+de+Dados+%7C+Estudante+de+Ci%C3%AAncia+de+Dados;Sistema+pronto+para+colabora%C3%A7%C3%A3o+%E2%9C%94" alt="Typing SVG" />
 
@@ -148,7 +148,7 @@ rikelme@dev:~$ _
 
 </div>
 
-> ⚠️ Snake Animation requer um GitHub Action configurado no seu repositório (`Rikelme202/Rikelme202`). Posso te ajudar a configurar o workflow, se quiser.
+
 
 <br>
 
