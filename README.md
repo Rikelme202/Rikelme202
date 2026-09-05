@@ -1,63 +1,174 @@
-<h1 align="center">
-  Rikelme Holanda Alves
-</h1>
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Data+%26+Database+Enthusiast;Transformando+dados+em+decis%C3%B5es;Sempre+aprendendo+algo+novo" alt="Typing SVG" />
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=gradient&customColorList=0,2,6,12,20&text=RIKELME%20HOLANDA%20ALVES&fontSize=42&fontColor=00F7FF&fontAlignY=38&animation=fadeIn&desc=SYSTEM%20ONLINE%20//%20DATA%20%26%20DATABASE%20ENGINEER&descAlignY=58&descSize=18" width="100%" />
 
-<p align="center">
-  <img src="https://img.shields.io/badge/-Análise%20de%20Dados-0f0f0f?style=for-the-badge&logo=databricks&logoColor=00F7FF" />
-  <img src="https://img.shields.io/badge/-Banco%20de%20Dados-0f0f0f?style=for-the-badge&logo=postgresql&logoColor=00F7FF" />
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2500&pause=900&color=00F7FF&center=true&vCenter=true&width=650&lines=Inicializando+perfil...;Carregando+m%C3%B3dulos+de+dados...;Ol%C3%A1%2C+eu+sou+o+Rikelme+%F0%9F%91%8B;Analista+de+Dados+%7C+Estudante+de+Ci%C3%AAncia+de+Dados;Sistema+pronto+para+colabora%C3%A7%C3%A3o+%E2%9C%94" alt="Typing SVG" />
 
----
+<br>
 
-### 🚀 Sobre mim
+![Profile Views](https://komarev.com/ghpvc/?username=SEU_USUARIO&color=00F7FF&style=for-the-badge&label=PROFILE+VIEWS)
+![GitHub followers](https://img.shields.io/github/followers/SEU_USUARIO?style=for-the-badge&color=00F7FF&labelColor=0d1117)
 
-- 🎓 Cursando **Tecnologia em Banco de Dados** com ênfase em **Ciência de Dados** no PIT (Piauí Instituto de Tecnologia)
-- 💼 Estagiário de **Análise de Dados** na Construtora SOMA — dashboards, tratamento de dados e relatórios analíticos
-- 🏦 Ex-aprendiz na **Caixa Econômica Federal**
-- 🌱 Sempre estudando algo novo em dados e programação
-- 🌎 Inglês e Espanhol — nível intermediário
+</div>
 
----
+<br>
 
-### 🛠️ Tech Stack
+## `>_` SOBRE_MIM.exe
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=java,py,js,postgres,html,css,git" />
-</p>
+```yaml
+usuario:
+  nome: "Rikelme Holanda Alves"
+  idade: 18
+  localizacao: "Teresina, PI - Brasil"
+  formacao: "Tecnólogo em Banco de Dados | Ênfase em Ciência de Dados"
+  instituicao: "PIT - Piauí Instituto de Tecnologia"
+  cargo_atual: "Estagiário de Análise de Dados @ Construtora SOMA"
+  experiencia_anterior: "Aprendiz - Caixa Econômica Federal"
+  idiomas: ["Português (Nativo)", "Inglês (Intermediário)", "Espanhol (Intermediário)"]
+  status: "Disponível para novos desafios 🟢"
+```
 
-| Categoria | Ferramentas |
-|---|---|
-| 💻 Linguagens | ☕ Java · 🐍 Python · 🟨 JavaScript |
-| 🗄️ Banco de Dados | 🐘 PostgreSQL · 🧮 SQL |
-| 📊 Análise de Dados | 📈 Dashboards · 📑 Relatórios Analíticos |
-| 🧰 Ferramentas | 🖥️ Suporte Técnico · 📦 Pacote Office |
+<br>
 
----
+## `>_` TECH_STACK.dll
 
-### 📜 Certificações
+<div align="center">
 
-- ☕ Java (Basic) — HackerRank
-- 🐍 Python Básico — Fundação Bradesco
-- 🗄️ Administrando Banco de Dados — Fundação Bradesco
+### Linguagens & Core
 
----
+<img src="https://skillicons.dev/icons?i=java,py,js,html,css&theme=dark" />
 
-### 📊 Estatísticas
+### Banco de Dados
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SEU_USUARIO&theme=tokyonight&hide_border=true" />
-</p>
+<img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite&theme=dark" />
 
----
+### Ferramentas & Ambiente
 
-### 📫 Contato
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,idea&theme=dark" />
 
-<p align="left">
-  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-0f0f0f?style=for-the-badge&logo=linkedin&logoColor=00F7FF" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Gmail-0f0f0f?style=for-the-badge&logo=gmail&logoColor=00F7FF" /></a>
-</p>
+</div>
+
+<br>
+
+<div align="center">
+
+| 🧠 Categoria | ⚙️ Stack |
+|:---:|:---:|
+| **Linguagens** | ☕ Java · 🐍 Python · 🟨 JavaScript |
+| **Banco de Dados** | 🐘 PostgreSQL · 🧮 SQL |
+| **Análise & BI** | 📊 Dashboards · 📈 Relatórios Analíticos |
+| **Produtividade** | 🖥️ Suporte Técnico · 📦 Pacote Office |
+
+</div>
+
+<br>
+
+## `>_` PROJETOS.exe
+
+<div align="center">
+
+<table>
+<tr>
+<td width="50%">
+
+### 🩺 App de Rastreio de Medicamentos
+Projeto acadêmico estilo Waze/Maps para rastrear e localizar estoque de remédios em hospitais e UBS em tempo real.
+
+`Status: Em desenvolvimento`
+
+</td>
+<td width="50%">
+
+### 📊 Dashboard Analítico Corporativo
+Construção de dashboards e relatórios analíticos para apoiar decisões estratégicas na Construtora SOMA.
+
+`Status: Em produção`
+
+</td>
+</tr>
+</table>
+
+</div>
+
+<br>
+
+## `>_` OBJETIVOS_ATUAIS.sh
+
+```bash
+rikelme@dev:~$ cat objetivos.txt
+
+[✔] Concluir Tecnólogo em Banco de Dados / Ciência de Dados
+[✔] Certificação Java (Basic) - HackerRank
+[✔] Certificação Python Básico - Fundação Bradesco
+[✔] Certificação Administrando Banco de Dados - Fundação Bradesco
+[ ] Aprofundar em modelagem e engenharia de dados
+[ ] Evoluir em SQL avançado (PostgreSQL)
+[ ] Contribuir com projetos open source
+[ ] Aperfeiçoar inglês técnico
+
+rikelme@dev:~$ _
+```
+
+<br>
+
+## `>_` GITHUB_ANALYTICS.sys
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00F7FF&icon_color=00F7FF&text_color=c9d1d9" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00F7FF&text_color=c9d1d9" width="41%" />
+
+<br>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=SEU_USUARIO&theme=tokyonight&hide_border=true&background=0d1117&ring=00F7FF&fire=00F7FF&currStreakLabel=00F7FF" width="90%" />
+
+<br>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=SEU_USUARIO&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=00F7FF&line=00F7FF&point=ffffff" width="90%" />
+
+</div>
+
+<br>
+
+## `>_` TROPHIES.dat
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=SEU_USUARIO&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&row=1&column=7" />
+
+</div>
+
+<br>
+
+## `>_` CONTRIBUTION_MATRIX.exe
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/SEU_USUARIO/SEU_USUARIO/output/github-contribution-grid-snake-dark.svg" width="90%" />
+
+</div>
+
+> ⚠️ Snake Animation requer um GitHub Action configurado no seu repositório (`SEU_USUARIO/SEU_USUARIO`). Posso te ajudar a configurar o workflow, se quiser.
+
+<br>
+
+## `>_` REDES.connect
+
+<div align="center">
+
+<a href="#"><img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=00F7FF" /></a>
+<a href="#"><img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=00F7FF" /></a>
+<a href="#"><img src="https://img.shields.io/badge/Gmail-0d1117?style=for-the-badge&logo=gmail&logoColor=00F7FF" /></a>
+<a href="#"><img src="https://img.shields.io/badge/Instagram-0d1117?style=for-the-badge&logo=instagram&logoColor=00F7FF" /></a>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&customColorList=0,2,6,12,20&section=footer" width="100%" />
+
+<sub>⚡ Sistema desenvolvido e mantido por <b>Rikelme Holanda Alves</b> — Conectando dados, decisões e inovação.</sub>
+
+</div>
