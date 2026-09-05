@@ -6,8 +6,8 @@
 
 <br>
 
-![Profile Views](https://komarev.com/ghpvc/?username=SEU_USUARIO&color=00F7FF&style=for-the-badge&label=PROFILE+VIEWS)
-![GitHub followers](https://img.shields.io/github/followers/SEU_USUARIO?style=for-the-badge&color=00F7FF&labelColor=0d1117)
+![Profile Views](https://komarev.com/ghpvc/?username=Rikelme202&color=00F7FF&style=for-the-badge&label=PROFILE+VIEWS)
+![GitHub followers](https://img.shields.io/github/followers/Rikelme202?style=for-the-badge&color=00F7FF&labelColor=0d1117)
 
 </div>
 
@@ -115,16 +115,16 @@ rikelme@dev:~$ _
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00F7FF&icon_color=00F7FF&text_color=c9d1d9" width="49%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00F7FF&text_color=c9d1d9" width="41%" />
+<img src="https://github-readme-stats.vercel.app/api?username=Rikelme202&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00F7FF&icon_color=00F7FF&text_color=c9d1d9" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rikelme202&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00F7FF&text_color=c9d1d9" width="41%" />
 
 <br>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=SEU_USUARIO&theme=tokyonight&hide_border=true&background=0d1117&ring=00F7FF&fire=00F7FF&currStreakLabel=00F7FF" width="90%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Rikelme202&theme=tokyonight&hide_border=true&background=0d1117&ring=00F7FF&fire=00F7FF&currStreakLabel=00F7FF" width="90%" />
 
 <br>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SEU_USUARIO&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=00F7FF&line=00F7FF&point=ffffff" width="90%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Rikelme202&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=00F7FF&line=00F7FF&point=ffffff" width="90%" />
 
 </div>
 
@@ -134,7 +134,7 @@ rikelme@dev:~$ _
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=SEU_USUARIO&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&row=1&column=7" />
+<img src="https://github-profile-trophy.vercel.app/?username=Rikelme202&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&row=1&column=7" />
 
 </div>
 
@@ -144,11 +144,11 @@ rikelme@dev:~$ _
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/SEU_USUARIO/SEU_USUARIO/output/github-contribution-grid-snake-dark.svg" width="90%" />
+<img src="https://raw.githubusercontent.com/Rikelme202/Rikelme202/output/github-contribution-grid-snake-dark.svg" width="90%" />
 
 </div>
 
-> ⚠️ Snake Animation requer um GitHub Action configurado no seu repositório (`SEU_USUARIO/SEU_USUARIO`). Posso te ajudar a configurar o workflow, se quiser.
+> ⚠️ Snake Animation requer um GitHub Action configurado no seu repositório (`Rikelme202/Rikelme202`). Posso te ajudar a configurar o workflow, se quiser.
 
 <br>
 
