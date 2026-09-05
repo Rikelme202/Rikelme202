@@ -115,8 +115,8 @@ rikelme@dev:~$ _
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Rikelme202&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00F7FF&icon_color=00F7FF&text_color=c9d1d9" width="49%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rikelme202&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00F7FF&text_color=c9d1d9" width="41%" />
+<img src="https://github-stats-extended.vercel.app/api?username=Rikelme202&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00F7FF&icon_color=00F7FF&text_color=c9d1d9" width="49%" />
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Rikelme202&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00F7FF&text_color=c9d1d9" width="41%" />
 
 <br>
 
