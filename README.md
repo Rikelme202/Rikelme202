@@ -22,7 +22,7 @@ usuario:
   localizacao: "Teresina, PI - Brasil"
   formacao: "Tecnólogo em Banco de Dados | Ênfase em Ciência de Dados"
   instituicao: "PIT - Piauí Instituto de Tecnologia"
-  cargo_atual: "Estagiário de Análise de Dados @ Construtora SOMA"
+  cargo_atual: "Estagiário de T.I @ Construtora SOMA"
   experiencia_anterior: "Aprendiz - Caixa Econômica Federal"
   idiomas: ["Português (Nativo)", "Inglês (Intermediário)", "Espanhol (Intermediário)"]
   status: "Disponível para novos desafios 🟢"
